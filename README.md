@@ -72,8 +72,6 @@
 
 ## Connect with me
 
-> [!TIP]
-> Feel free to connect with me or learn more about me on the following platforms:
 
 <details>
 <summary><strong>Telegram</strong></summary>
