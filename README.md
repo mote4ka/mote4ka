@@ -1,4 +1,3 @@
-
 <div align="left">
 
 # Hi, im Mathew
@@ -35,7 +34,6 @@
     <li><img src="https://img.shields.io/badge/Flask-lightgrey?logo=flask&logoColor=white" alt="Flask"></li>
     <li><img src="https://img.shields.io/badge/FastAPI-success?logo=fastapi&logoColor=white" alt="FastAPI"></li>
     <li><img src="https://img.shields.io/badge/RESTful%20APIs-red?logo=axios&logoColor=white" alt="RESTful APIs"></li>
-    <li><img src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white" alt="GraphQL"></li>
     <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
 </ul>
 </details>
@@ -44,6 +42,17 @@
 <details>
 <summary><strong>🤖 AI & Machine Learning</strong></summary>
 <ul>
+    <li><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupiter Notebook"></li>
+    <li><strong>In Progress...</strong></li>
+</ul>
+</details>
+
+
+<details>
+<summary><strong>📊 Data Analytics</strong></summary>
+<ul>
+    <li><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"></li>
+    <li><img src="https://img.shields.io/badge/Microsoft%20Excel-darkgreen?logo=micropython&logoColor=white" alt="Microsoft Excel"></li>
     <li><strong>In Progress...</strong></li>
 </ul>
 </details>
@@ -59,7 +68,24 @@
 </details>
 
 
+<details>
+<summary><strong>🎮 Game Development</strong></summary>
+<ul>
+    <li><img src="https://img.shields.io/badge/Unreal_Engine_5-black?logo=unreal-engine&logoColor=white" alt="Unreal Engine 5"></li>
+    <li><img src="https://img.shields.io/badge/-Blender-orange?logo=blender&logoColor=white" alt="Blender"></li>
+    <li><img src="https://img.shields.io/badge/OpenGL-blue?logo=OpenGL&logoColor=white" alt="OpenGL"></li>
+</ul>
+</details>
 
+
+## My Portfolio
+
+<ul>
+    <details>
+    <summary><strong>Counter Strike 2 Skins Parser</strong></summary>
+    <p>Parsing <a href="lis-skins.ru">Lis-Skins</a> and <a href="market.csgo.com">Market CSGO</a> to find best deals for skins arbitrage</p>
+    </details>
+</ul>
 
 ## What I'm interested in
 
