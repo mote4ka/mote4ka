@@ -2,6 +2,8 @@
 
 # Hi, im Mathew
 
+<a href="https://leetcode.com/u/mote4ka/">![LeetCode](https://img.shields.io/badge/LeetCode-mote4ka-black?style=for-the-badge&logo=LeetCode&logoColor=)</a>
+
 ## Skills and Knowledge
 
 <details>
