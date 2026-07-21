@@ -45,7 +45,7 @@
 <summary><strong>🤖 AI & Machine Learning</strong></summary>
 <ul>
     <li><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupiter Notebook"></li>
-    <li><strong>In Progress...</strong></li>
+    <li><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch&logoColor=" alt="Jupiter Notebook"></li>
 </ul>
 </details>
 
@@ -55,7 +55,6 @@
 <ul>
     <li><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"></li>
     <li><img src="https://img.shields.io/badge/Microsoft%20Excel-darkgreen?logo=micropython&logoColor=white" alt="Microsoft Excel"></li>
-    <li><strong>In Progress...</strong></li>
 </ul>
 </details>
 
