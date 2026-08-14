@@ -2,7 +2,8 @@
 
 # Hi, im Mathew
 
-<a href="https://leetcode.com/u/mote4ka/">![LeetCode](https://img.shields.io/badge/LeetCode-mote4ka-black?style=for-the-badge&logo=LeetCode&logoColor=)</a>
+<a href="https://leetcode.com/u/mote4ka/">![LeetCode](https://img.shields.io/badge/LeetCode-mote4ka-black?&logo=LeetCode&logoColor=)</a>
+<a href="https://codeforces.com/profile/mote4ka23">![CodeForces](https://img.shields.io/badge/Codeforces-mote4ka23-445f9d?logo=Codeforces&logoColor=white)</a>
 
 ## Skills and Knowledge
 
