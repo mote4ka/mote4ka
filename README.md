@@ -2,6 +2,7 @@
 
 # Hi, im Mathew
 
+<a href="https://www.linkedin.com/in/mote4ka23/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)</a>
 <a href="https://leetcode.com/u/mote4ka/">![LeetCode](https://img.shields.io/badge/LeetCode-mote4ka-black?&logo=LeetCode&logoColor=)</a>
 <a href="https://codeforces.com/profile/mote4ka23">![CodeForces](https://img.shields.io/badge/Codeforces-mote4ka23-445f9d?logo=Codeforces&logoColor=white)</a>
 
