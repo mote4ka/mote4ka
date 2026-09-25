@@ -1,96 +1,72 @@
 <div align="left">
 
-# Hi, im Mathew
+# hi, im Mathew
 
-<a href="https://www.linkedin.com/in/mote4ka23/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)</a>
-<a href="https://leetcode.com/u/mote4ka/">![LeetCode](https://img.shields.io/badge/LeetCode-mote4ka-black?&logo=LeetCode&logoColor=)</a>
-<a href="https://codeforces.com/profile/mote4ka23">![CodeForces](https://img.shields.io/badge/Codeforces-mote4ka23-445f9d?logo=Codeforces&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/mote4ka23/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
+<a href="https://leetcode.com/u/mote4ka/">![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=o)</a>
+<a href="https://codeforces.com/profile/mote4ka23">![CodeForces](https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=Codeforces&logoColor=bla)</a>
 
-## Skills and Knowledge
+## github stats
 
-<details>
-<summary><strong>🐍 Languages</strong></summary>
-<ul>
-    <li><img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white" alt="C++"></li>
-    <li><img src="https://img.shields.io/badge/C-gray?logo=c&logoColor=white" alt="C"></li>
-    <li><img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python"></li>
-    <li><img src="https://img.shields.io/badge/Dart-blue?logo=dart&logoColor=white" alt="Dart"></li>
-    <li><img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"></li>
-    <li><img src="https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=white" alt="Shell"></li>
-</ul>
-</details>
+<img src="https://github-stats-extended.vercel.app/api?username=mote4ka&custom_title=Overall%20Stats&include_all_commits=true&theme=dark_github" alt="GitHub Stats" height="150">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=mote4ka&layout=compact&langs_count=4&hide_values=true&theme=dark_github" alt="Top Langs" height="150">
 
+## skills & knowledge
 
-<details>
-<summary><strong>🗃️ Databases</strong></summary>
-<ul>
-    <li><img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" alt="MySQL"></li>
-    <li><img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" alt="PostgreSQL"></li>
-    <li><img src="https://img.shields.io/badge/Supabase-darkgreen?logo=supabase&logoColor=white" alt="Supabase"></li>
-    <li><img src="https://img.shields.io/badge/SQLite-lightblue?logo=sqlite&logoColor=white" alt="SQLite"></li>
-</ul>
-</details>
+### languages
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
+<img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
+
+### databases
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Supabase-darkgreen?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/SQLite-lightblue?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 
 
-<details>
-<summary><strong>⚙️ Backend Development</strong></summary>
-<ul>
-    <li><img src="https://img.shields.io/badge/Flask-lightgrey?logo=flask&logoColor=white" alt="Flask"></li>
-    <li><img src="https://img.shields.io/badge/FastAPI-success?logo=fastapi&logoColor=white" alt="FastAPI"></li>
-    <li><img src="https://img.shields.io/badge/RESTful%20APIs-red?logo=axios&logoColor=white" alt="RESTful APIs"></li>
-    <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
-</ul>
-</details>
+### backend development
+<img src="https://img.shields.io/badge/Flask-lightgrey?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/FastAPI-blue?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/RESTful%20APIs-red?style=for-the-badge&logo=axios&logoColor=white" alt="RESTful APIs">
+<img src="https://img.shields.io/badge/WebSockets-yellow?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets">
 
 
-<details>
-<summary><strong>🤖 AI & Machine Learning</strong></summary>
-<ul>
-    <li><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupiter Notebook"></li>
-    <li><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch&logoColor=" alt="Jupiter Notebook"></li>
-</ul>
-</details>
+### AI & machine learning
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupiter Notebook">
+<img src="https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&logoColor=" alt="PyTorch">
 
 
-<details>
-<summary><strong>📊 Data Analytics</strong></summary>
-<ul>
-    <li><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"></li>
-    <li><img src="https://img.shields.io/badge/Microsoft%20Excel-darkgreen?logo=micropython&logoColor=white" alt="Microsoft Excel"></li>
-</ul>
-</details>
+### data analytics
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-darkgreen?style=for-the-badge&logo=micropython&logoColor=white" alt="Microsoft Excel">
 
 
-<details>
-<summary><strong>🚀 CI/CD, Observability & Tools</strong></summary>
-<ul>
-    <li><img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git"></li>
-    <li><img src="https://img.shields.io/badge/GitHub%20Actions-lightgrey?logo=githubactions&logoColor=white" alt="GitHub Actions"></li>
-    <li><img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" alt="Linux"></li>
-</ul>
-</details>
+### CI/CD, observability & tools
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub%20Actions-lightgrey?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
 
 
-<details>
-<summary><strong>🎮 Game Development</strong></summary>
-<ul>
-    <li><img src="https://img.shields.io/badge/Unreal_Engine_5-black?logo=unreal-engine&logoColor=white" alt="Unreal Engine 5"></li>
-    <li><img src="https://img.shields.io/badge/-Blender-orange?logo=blender&logoColor=white" alt="Blender"></li>
-    <li><img src="https://img.shields.io/badge/OpenGL-blue?logo=OpenGL&logoColor=white" alt="OpenGL"></li>
-</ul>
-</details>
+### game development
+<img src="https://img.shields.io/badge/Unreal_Engine_5-black?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine 5">
+<img src="https://img.shields.io/badge/-Blender-orange?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+<img src="https://img.shields.io/badge/OpenGL-blue?style=for-the-badge&logo=OpenGL&logoColor=white" alt="OpenGL">
 
 
-## My Portfolio
+## my portfolio
 
-<ul>
-    <details>
-    <summary><strong>Counter Strike 2 Skins Parser</strong></summary>
-    <p>Parsing <a href="lis-skins.ru">Lis-Skins</a> and <a href="market.csgo.com">Market CSGO</a> to find best deals for skins arbitrage</p>
-    </details>
-</ul>
+### Counter Strike 2 Skins Parser 
+<p>Parsing <a href="lis-skins.ru">Lis-Skins</a> and <a href="market.csgo.com">Market CSGO</a> to find best deals for skins arbitrage</p>
 
-## What I'm interested in
+### SyntheticMarket
+<p>Experiment: can a neural network learn to predict price direction from purely synthetic (generated) financial data?
+A personal research project, a lab experiment testing whether an LSTM can find predictive signal in synthetic market data.<p>
+
+## what I'm interested in
 
 <ul>
     <li><strong>Backend Development</strong></li>
@@ -99,21 +75,9 @@
 </ul>
 
 
-## Connect with me
+## connect with me
 
+<a href="https://t.me/mote4ka23">@mote4ka23</a>
 
-<details>
-<summary><strong>Telegram</strong></summary>
-<ul>
-    <il><a href="https://t.me/mote4ka23"> @mote4ka23</a></il>
-</ul>
-</details>
+<a>tochnonebolotnyaytka@gmail.com</a>
 
-<details>
-<summary><strong>Mail</strong></summary>
-<ul>
-    <il><a>tochnonebolotnyaytka@gmail.com</a></il>
-</ul>
-</details>
-
-</div>
