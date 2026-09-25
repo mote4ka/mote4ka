@@ -8,7 +8,7 @@
 
 ## github stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=mote4ka&custom_title=Overall%20Stats&include_all_commits=true&theme=dark_github" alt="GitHub Stats" height="150">
+<img src="https://github-stats-extended.vercel.app/api?username=mote4ka&custom_title=Overall&include_all_commits=true&theme=dark_github" alt="GitHub Stats" height="150">
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mote4ka&layout=compact&langs_count=4&hide_values=true&theme=dark_github" alt="Top Langs" height="150">
 
 ## skills & knowledge
