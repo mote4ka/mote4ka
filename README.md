@@ -2,9 +2,9 @@
 
 # hi, im Mathew
 
-<a href="https://www.linkedin.com/in/mote4ka23/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)</a>
-<a href="https://leetcode.com/u/mote4ka/">![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=LeetCode&logoColor=o)</a>
-<a href="https://codeforces.com/profile/mote4ka23">![CodeForces](https://img.shields.io/badge/Codeforces-white?logo=Codeforces&logoColor=bla)</a>
+<a href="https://www.linkedin.com/in/mote4ka23/">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
+<a href="https://leetcode.com/u/mote4ka/">![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=o)</a>
+<a href="https://codeforces.com/profile/mote4ka23">![CodeForces](https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=Codeforces&logoColor=bla)</a>
 
 ## github stats
 
