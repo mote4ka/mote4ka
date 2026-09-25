@@ -59,12 +59,17 @@
 
 ## my portfolio
 
+<ul>
+
 ### Counter Strike 2 Skins Parser 
+
 <p>Parsing <a href="lis-skins.ru">Lis-Skins</a> and <a href="market.csgo.com">Market CSGO</a> to find best deals for skins arbitrage</p>
 
 ### SyntheticMarket
 <p>Experiment: can a neural network learn to predict price direction from purely synthetic (generated) financial data?
 A personal research project, a lab experiment testing whether an LSTM can find predictive signal in synthetic market data.<p>
+
+</ul>
 
 ## what I'm interested in
 
